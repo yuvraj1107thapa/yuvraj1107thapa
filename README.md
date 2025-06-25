@@ -1,23 +1,10 @@
 # Hello World,
 
-<a href="https://linkedin.com/in/yuvrajthapa">
-  <img align="left" alt="Yuvraj Thapa - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>
-<a href="https://leetcode.com/u/yuvrajthapa/">
-  <img align="left" alt="Yuvraj Thapa - Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/>
-</a>
-<a href="https://instagram.com/yuvraj1107thapa">
-  <img align="left" alt="Yuvraj Thapa - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-</a>
-<a href="https://twitter.com/iyuvrajthapa">
-  <img align="left" alt="Yuvraj Thapa - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
-</a>
-<a href="https://medium.com/@yuvraj_thapa">
-  <img align="left" alt="Yuvraj Thapa - Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
-</a>
-
-<br />
-<br />
+<a href="https://linkedin.com/in/yuvrajthapa"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/yuvrajthapa/"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/></a>
+<a href="https://instagram.com/yuvraj1107thapa"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/iyuvrajthapa"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="Twitter"/></a>
+<a href="https://medium.com/@yuvraj_thapa"><img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" alt="Medium"/></a>
 
 My name is Yuvraj and I make Softwares. <br />
 I specialize in Web Application Development. <br />
