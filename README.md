@@ -19,14 +19,15 @@
 <br />
 <br />
 
-I'm a final-year B.Tech CSE student and a Gold Medalist in Diploma CSE. <br />
-I specialize in Competitive Programming and Web Application Development. <br />
+My name is Yuvraj and I make Softwares. <br />
+I specialize in Web Application Development. <br />
+I do Open Source and Competitive Programming for fun. <br/>
 
 Technologies:
-- JavaScript, TypeScript, C++, Java
-- React, Node, MySQL, MongoDB, WebRTC, Docker, AWS
+- JavaScript, TypeScript, C++, Java, Go
+- React, Node, MySQL, PostgreSQL, WebRTC, Docker, AWS
 
 Also interested in:
-- Advanced Algorithms, SEO, Web Security, Distributed Systems
+- Advanced Algorithms, Data Structures, Gen AI, System Architecture
 
-Feel free to connect with me at yuvrajthapa692@gmail.com
+Feel free to connect with me at yt.yuvrajthapa@gmail.com
