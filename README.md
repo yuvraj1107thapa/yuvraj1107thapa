@@ -17,4 +17,4 @@ Technologies:
 Also interested in:
 - Advanced Algorithms, Data Structures, Gen AI, System Architecture
 
-Feel free to connect with me at yt.yuvrajthapa@gmail.com
+Feel free to connect with me at yuvrajthapa.work@gmail.com
