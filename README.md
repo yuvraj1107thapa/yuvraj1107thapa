@@ -4,7 +4,7 @@ I have a strong foundation in data structures, algorithms and problem solving, w
 
 My areas of interest include Distributed Systems, System Design, Object-Oriented Design, Advanced Algorithms, C++, Python, TypeScript, Go, SQL, Node.js, FastAPI, RabbitMQ, Docker, AWS, Microservices.
 
-I build a lot of side projects. Some take off, some don't, but building them is always fun. Currently I am building [syncenv](https://github.com/yuvraj1107thapa/syncenv), a serverless, end-to-end encrypted way to sync API keys and secrets across machines. It runs on a leaderless peer-to-peer mesh with eventual consistency, mDNS discovery, mTLS and AGE encryption.
+I build a lot of side projects. Some take off, some don't, but building them is always fun. Currently building [syncenv](https://github.com/yuvraj1107thapa/syncenv): serverless, end-to-end encrypted secrets sync across machines over a leaderless P2P mesh.
 
 Find me on [LinkedIn](https://linkedin.com/in/yuvrajthapa), [LeetCode](https://leetcode.com/u/yuvrajthapa/), [X](https://twitter.com/iyuvrajthapa) and [Substack](https://yuvrajthapa.substack.com).
 
