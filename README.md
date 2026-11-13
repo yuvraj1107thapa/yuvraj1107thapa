@@ -1,4 +1,4 @@
-I'm a software engineer passionate about distributed systems, backend engineering and advanced algorithms.
+I'm a software engineer passionate about engineering, distributed systems, and advanced algorithms.
 
 I have a strong foundation in data structures, algorithms and problem solving, which I've cultivated over ~3 years of practice and participation in various CP (Competitive Programming) contests and platforms. Most notably, I'm an ACM ICPC Regionalist
 
