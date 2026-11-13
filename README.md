@@ -1,19 +1,11 @@
-# Hello World,
+I'm a software engineer passionate about distributed systems, backend engineering and algorithms. Currently, I'm a Software Engineer - I.
 
-<a href="https://linkedin.com/in/yuvrajthapa"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/yuvrajthapa/"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/></a>
-<a href="https://yuvrajthapa.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white" alt="Substack"/></a>
-<a href="https://twitter.com/iyuvrajthapa"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="Twitter"/></a>
+I have a strong foundation in data structures, algorithms and problem solving, which I've cultivated over ~3 years of practice and participation in various CP (Competitive Programming) contests and platforms. Most notably, I'm an ACM ICPC Regionalist
 
-My name is Yuvraj and I'm a Software Engineer. <br />
-I specialize in Distributed Systems, Backend Engineering. <br />
-I build side projects and do Competitive Programming for fun. <br/>
+My areas of interest include Distributed Systems, System Design, Object-Oriented Design, Advanced Algorithms, C++, Python, TypeScript, Go, SQL, Node.js, FastAPI, RabbitMQ, Docker, AWS, Microservices.
 
-Technologies:
-- C++, TypeScript, Go, Python, SQL
-- Node.js, FastAPI, React, PostgreSQL, MySQL, Docker, AWS
+I build a lot of side projects. Some take off, some don't, but building them is always fun. Currently I am building [syncenv](https://github.com/yuvraj1107thapa/syncenv), a serverless, end-to-end encrypted way to sync API keys and secrets across machines. It runs on a leaderless peer-to-peer mesh with eventual consistency, mDNS discovery, mTLS and AGE encryption.
 
-Also interested in:
-- Advanced Algorithms, Data Structures, Gen AI, System Architecture
+Find me on [LinkedIn](https://linkedin.com/in/yuvrajthapa), [LeetCode](https://leetcode.com/u/yuvrajthapa/), [X](https://twitter.com/iyuvrajthapa) and [Substack](https://yuvrajthapa.substack.com).
 
-Feel free to connect with me at yuvrajthapa.work@gmail.com
+Feel free to connect with me at yuvrajthapa.work@gmail.com.
