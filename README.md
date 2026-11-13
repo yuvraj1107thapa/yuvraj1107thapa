@@ -11,7 +11,7 @@ I build side projects and do Competitive Programming for fun. <br/>
 
 Technologies:
 - C++, TypeScript, Go, Python, SQL
-- Node.js, FastAPI, React, PostgreSQL, MySQL, RabbitMQ, Docker, AWS
+- Node.js, FastAPI, React, PostgreSQL, MySQL, Docker, AWS
 
 Also interested in:
 - Advanced Algorithms, Data Structures, Gen AI, System Architecture
